@@ -2,6 +2,6 @@
 <body>
 <h2>Hello world!</h2>
 <h2>This is master branch</h2> 
-<h2>tomcat deployment succesful through jenkins</h2>
+<h2>tomcat deployment succesful through tomcat</h2>
 </body>
 </html>
